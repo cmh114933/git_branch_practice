@@ -1,0 +1,4 @@
+
+conflict line
+
+new line
