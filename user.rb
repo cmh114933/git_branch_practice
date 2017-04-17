@@ -1,1 +1,4 @@
+
 conflict line
+
+new line
